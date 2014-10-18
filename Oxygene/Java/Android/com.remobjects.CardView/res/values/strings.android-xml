@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">com.remobjects.cardview</string>
+  <string name="intro_message">
+    <![CDATA[
+        
+            
+            This sample demonstrates how to use CardView introduced in the support library for the
+            Android L preview.
+            
+        
+        ]]>
+  </string>
+  <string name="title_activity_card_view">CardViewActivity</string>
+  <string name="cardview_contents">
+    This is a CardView widget. CardView widgets can have
+    shadows and rounded corners.
+    \n\nTo create a card with a shadow, use the <font fgcolor="#FFFFFFFF">android:elevation</font>
+    attribute.
+    \n\nTo set the corner radius in your layouts, use the <font
+            fgcolor="#FFFFFFFF">card_view:cardCornerRadius</font> attribute.
+  </string>
+  <string name="cardview_radius_seekbar_text">Radius</string>
+  <string name="cardview_elevation_seekbar_text">Elevation</string>
+</resources>
