@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "net.nelsonsonline.geoquiz", "net.nelsonsonline.geoquiz.elements", "{62041FF3-6754-4246-8ECE-CF71F783CC7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62041FF3-6754-4246-8ECE-CF71F783CC7A}.Debug|Default.ActiveCfg = Debug
+		{62041FF3-6754-4246-8ECE-CF71F783CC7A}.Debug|Default.Build.0 = Debug
+		{62041FF3-6754-4246-8ECE-CF71F783CC7A}.Release|Default.ActiveCfg = Release
+		{62041FF3-6754-4246-8ECE-CF71F783CC7A}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
