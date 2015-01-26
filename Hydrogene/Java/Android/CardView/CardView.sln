@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# RemObjects Fire
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "com.remobjects.cardview", "CardView.elements", "{7ADF9D59-5A64-4586-9582-C3EE87AFCC6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ADF9D59-5A64-4586-9582-C3EE87AFCC6D}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{7ADF9D59-5A64-4586-9582-C3EE87AFCC6D}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{7ADF9D59-5A64-4586-9582-C3EE87AFCC6D}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{7ADF9D59-5A64-4586-9582-C3EE87AFCC6D}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
