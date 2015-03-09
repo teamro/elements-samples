@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# RemObjects Fire
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "org.me.torch", "org.me.torch.elements", "{DCDF010B-327F-4A2B-A9B2-05FD6F217B3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCDF010B-327F-4A2B-A9B2-05FD6F217B3B}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{DCDF010B-327F-4A2B-A9B2-05FD6F217B3B}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{DCDF010B-327F-4A2B-A9B2-05FD6F217B3B}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{DCDF010B-327F-4A2B-A9B2-05FD6F217B3B}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
